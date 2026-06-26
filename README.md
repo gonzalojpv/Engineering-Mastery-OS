@@ -1,5 +1,4 @@
 # Engineering-Mastery-OS
-# Engineering Mastery OS
 
 > A personal operating system for continuous growth as a Software Engineer.
 
