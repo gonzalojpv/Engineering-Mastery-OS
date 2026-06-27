@@ -264,6 +264,15 @@ Engineering Mastery OS/
 ├── 08 - Code Reviews.md
 ├── 09 - Interview Prep.md
 ├── 10 - Progress.md
+v2.0
+├── 11 - Engineering Profile.md
+├── 12 - Competency Matrix.md
+├── 13 - Decision Journal.md
+├── 14 - Knowledge Graph.md
+├── 15 - Project Reviews.md
+├── 16 - Architecture Reviews.md
+├── 17 - Engineering Case Studies.md
+├──
 └── Claude Instructions.md
 ```
 
